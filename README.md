@@ -1,7 +1,9 @@
 # TTP-Assignment10
 
 
-Blogging Platform CRUD Web Application
+# Blogging Platform CRUD Web Application
+
+
 This project aims to create a CRUD web application for a blogging platform using Sequelize to manage the database relationships and implement user authentication and authorization. The application allows users to register, log in, create, view, update, and delete posts and comments. Additionally, it includes advanced querying and manipulation operations to retrieve posts with their associated users and comments, retrieve comments for a specific user or post, add comments to a post, and remove comments from a post.
 
 Task 1: Database Setup and Relationships
